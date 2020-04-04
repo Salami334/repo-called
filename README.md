@@ -1,2 +1,2 @@
 # repo-called
-just a repo
+just a repo of guy that is learning how to github
